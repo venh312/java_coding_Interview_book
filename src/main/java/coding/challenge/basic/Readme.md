@@ -1,17 +1,44 @@
-### ✅ 1주차: 기본 문법 & 배열, 문자열
-Day 1: 배열에서 최댓값 찾기
+### 📘 1주차: 기본 문법 & 배열, 문자열
 
-Day 2: 문자열 뒤집기
+#### ✅ Day 1: 배열에서 최댓값 찾기  
+- **문제**: [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)  
+- **설명**: 문자열로 주어진 숫자들 중에서 최댓값과 최솟값을 찾는 문제입니다.
 
-Day 3: 팰린드롬 확인
+---
 
-Day 4: 문자열 압축 (Run-Length Encoding)
+#### ✅ Day 2: 문자열 뒤집기  
+- **문제**: [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)  
+- **설명**: 주어진 문자열을 뒤집어 출력합니다.
 
-Day 5: 중복 문자 제거
+---
 
-Day 6: 아나그램 판별
+#### ✅ Day 3: 팰린드롬 확인  
+- **문제**: [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  
+- **설명**: 문자열 내에서 가장 긴 팰린드롬 부분 문자열의 길이를 구합니다.
 
-Day 7: 2개의 포인터로 정렬된 배열의 합
+---
+
+#### ✅ Day 4: 문자열 압축 (Run-Length Encoding)  
+- **문제**: [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  
+- **설명**: 반복되는 문자열을 압축하여 가장 짧은 길이를 구합니다.
+
+---
+
+#### ✅ Day 5: 중복 문자 제거  
+- **문제**: [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  
+- **설명**: 연속해서 같은 숫자가 나오면 하나만 남기고 제거합니다.
+
+---
+
+#### ✅ Day 6: 아나그램 판별  
+- **문제**: [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  
+- **설명**: 아나그램 판별 연습을 위해, 문자열 정렬 및 비교를 다루는 문제입니다.  
+
+---
+
+#### ✅ Day 7: 2개의 포인터로 정렬된 배열의 합  
+- **문제**: [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)  
+- **설명**: 두 배열의 각 요소를 곱한 뒤 모두 더하는 문제로, 투 포인터 개념과 유사한 접근 연습에 적합합니다.
 
 ### ✅ 2주차: 해시 & Set
 Day 8: 두 배열의 교집합
