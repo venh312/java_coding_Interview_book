@@ -1,4 +1,4 @@
-package coding.challenge.day27;
+package coding.challenge.basic.day27;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,6 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class Solution {
-
 /*
 https://www.acmicpc.net/problem/7576
 
